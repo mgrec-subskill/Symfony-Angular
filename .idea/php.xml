@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/api-server/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/api-server/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/api-server/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/api-server/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/api-server/vendor/incenteev/composer-parameter-handler" />
+      <path value="$PROJECT_DIR$/api-server/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/api-server/vendor/sensiolabs/security-checker" />
+      <path value="$PROJECT_DIR$/api-server/vendor/fig/link-util" />
+      <path value="$PROJECT_DIR$/api-server/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/api-server/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/api-server/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/api-server/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/api-server/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/api-server/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/api-server/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/api-server/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/api-server/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/api-server/vendor/sensio/distribution-bundle" />
+      <path value="$PROJECT_DIR$/api-server/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/api-server/vendor/sensio/generator-bundle" />
+      <path value="$PROJECT_DIR$/api-server/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/api-server/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/api-server/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/api-server/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/api-server/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/api-server/vendor/symfony/polyfill-apcu" />
+      <path value="$PROJECT_DIR$/api-server/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/api-server/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/api-server/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/api-server/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/api-server/vendor/composer" />
+      <path value="$PROJECT_DIR$/api-server/vendor/symfony/symfony" />
+      <path value="$PROJECT_DIR$/api-server/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/api-server/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/api-server/vendor/symfony/swiftmailer-bundle" />
+      <path value="$PROJECT_DIR$/api-server/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/api-server/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/api-server/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/api-server/vendor/paragonie/random_compat" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="5.5.0" />
+</project>
